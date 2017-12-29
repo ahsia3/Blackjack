@@ -1,5 +1,5 @@
 # Simple Blackjack Java Game 
->created for fun
+>created for fun :)
 
 Blackjack is a simple card game that involves getting dealt 2 cards from the dealer to you and the dealer itself. You win blackjack when the first 2 cards dealt to you add up to 21. Simple Blackjack is played in console.
 
