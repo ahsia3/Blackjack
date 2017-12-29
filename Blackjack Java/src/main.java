@@ -80,7 +80,7 @@ public class main {
 					System.out.println("Dealer Hand: " + dealerDeck.getCard(0).toString() + " and [Hidden]");
 					
 					//What does the player want to do?
-					System.out.println("Woudl you like to (1)Hit or (2)Stand?");
+					System.out.println("Would you like to (1)Hit or (2)Stand?");
 					
 					int response = userInput.nextInt();
 					
